@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tadeu-Raphael/vagadev-jr/issues"
   },
-  "homepage": "https://github.com/Tadeu-Raphael/vagadev-jr#readme"
+  "homepage": "https://github.com/Tadeu-Raphael/vagadev-jr#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
